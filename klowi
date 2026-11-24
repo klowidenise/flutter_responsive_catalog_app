@@ -1,0 +1,7 @@
+echo "# flutter_responsive_catalog_app" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/klowidenise/flutter_responsive_catalog_app.git
+git push -u origin main
